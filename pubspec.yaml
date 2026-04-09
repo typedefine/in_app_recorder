@@ -1,6 +1,6 @@
 name: in_app_recorder
 description: "A widget-level screen recorder with red border, export, and share support."
-version: 0.0.9
+version: 0.1.0
 repository: https://github.com/J-Libraries/flutter_screen_capture.git
 
 environment:
